@@ -1,0 +1,66 @@
+###############################
+# Java / Maven build ignores
+###############################
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+###############################
+# IDE-specific files
+###############################
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+###############################
+# Test Reports and Output
+###############################
+test-output/
+reports/
+screenshots/
+logs/
+
+###############################
+# Extent Reports generated files
+###############################
+*.html
+*.xml
+*.json
+*.pdf
+
+###############################
+# OS-specific files
+###############################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+###############################
+# Misc
+###############################
+*.log
+*.tmp
+*.swp
+*.bak
+
+###############################
+# Maven Wrapper
+###############################
+.mvn/
+.mvn/wrapper/maven-wrapper.jar
+
+###############################
+# Node (if used later)
+###############################
+node_modules/
+
