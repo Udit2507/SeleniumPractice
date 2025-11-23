@@ -252,7 +252,6 @@ mvn test
 mvn -DsuiteXmlFile=testng.xml test
 
 ✔ Run from IDE:
-
 Right-click → Run As → TestNG Suite
 
 📊 Reporting
@@ -261,17 +260,14 @@ Right-click → Run As → TestNG Suite
 Path:
 
 /reports/AutomationReport.html
-
 ✔ Screenshots on Failure
 
 Path:
 
 /reports/screenshots/
-
 ✔ TestNG Default Report
 
 Path:
-
 /test-output/index.html
 
 🧪 Test Cases Covered
@@ -280,51 +276,33 @@ Path:
 Open Signup modal
 
 Verify modal title
-
 Validate empty fields alert
-
 Register new user
-
 Validate success
-
 Detect already-existing username
 
 More test modules coming soon:
 
 Login
-
 Logout
-
 Add to cart
-
 Product search
-
 End-to-end checkout
-
 🌳 Git Workflow Used
 
 This project uses a professional Git strategy:
 
 main → stable production-ready code
-
 signup-feature → feature branch
-
 Pull Requests to merge
-
 Clean commit history
-
 GitHub branch protections
 
 ⚙️ CI/CD (Optional)
-
 You can integrate:
-
 GitHub Actions
-
 Jenkins
-
 Azure DevOps
-
 I can prepare a complete .yml pipeline if needed.
 
 🚀 Future Enhancements
@@ -337,29 +315,9 @@ I can prepare a complete .yml pipeline if needed.
 ✔ PageFactory removal (migrate to Selenium 4 relative locators)
 ✔ Data-driven testing with Excel/CSV
 
-👨‍💻 About Me
-
+👨‍💻 About Me:
 Udit Kumar Gupta
 QA Automation Engineer (3 Years Experience)
-
-Skills:
-
-Selenium
-
-Playwright
-
-TestNG
-
-API (Postman/RestAssured)
-
-Performance Testing (Locust)
-
-SQL
-
-Jenkins
-
-GitHub CI
-
+Skills: Selenium, Playwright, TestNG, API (Postman/RestAssured), Performance Testing, SQL, Jenkins, GitHub CI
 📧 Email: iuditkumargupta@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/udit-kumar-gupta-341694280
