@@ -3,13 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.AutomationProject.tests.RegisterTest">
+      <class name="com.AutomationProject.tests.SignupTest">
         <methods>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-          <include name="verifyUserCanRegisterSuccessfully"/>
+          <include name="setUpSuite"/>
+          <include name="verifyErrorShownWhenUsernameAlreadyExists"/>
+          <include name="tearDownSuite"/>
         </methods>
-      </class> <!-- com.AutomationProject.tests.RegisterTest -->
+      </class> <!-- com.AutomationProject.tests.SignupTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
